@@ -5,8 +5,6 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Cache;
 use DB;
-use App\Models\Post;
-use App\Models\Page;
 use App\Models\Tarif;
 
 class EwaManager extends Controller
